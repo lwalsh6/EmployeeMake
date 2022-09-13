@@ -1,5 +1,5 @@
 # Logan Walsh
-# 9-7-2022
+# 9-13-2022
 # Makefile
 # Makefile Test Program for compilation of multiple files simeltaniously 
 # Typing "make" compiles the program
