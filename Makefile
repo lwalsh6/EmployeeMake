@@ -37,6 +37,6 @@ main.o:		main.cpp Employee.h Supervisor.h Officer.h
 # Compile main.o with all errors and warnings
 		$(CC) $(CFLAGS) -c main.cpp
 
-#This names the "executable" for the program. After compiling type ./EmployeeTesting
+#This names the "executable" for the program. After compiling type ./employee
 clean:
 	$(RM) employee *.o *~
